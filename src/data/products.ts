@@ -158,21 +158,21 @@ export const riotLineProducts: RiotProduct[] = [
 ];
 
 export const interventionProducts: InterventionProduct[] = [
-  // {
-  //   id: 'x-dirty',
-  //   name: 'X-DIRTY DETAILS',
-  //   tagline: 'Heavy Soil Pre-Treatment',
-  //   sku: 'RG-INT-XDIRTY',
-  //   description: 'Aggressive decontamination for heavily soiled vehicles',
-  //   whatItIs: 'An industrial-strength pre-treatment for vehicles with extreme contamination levels.',
-  //   capabilities: 'Breaks down heavy mud, construction debris, and industrial fallout.',
-  //   strategicIntent: 'Prepare extremely contaminated vehicles for standard wash protocol.',
-  //   deploymentProtocol: 'Apply to worst areas first. Allow extended dwell time. Pressure rinse before wash.',
-  //   waypoint: 'grip-purge',
-  //   waypointDescription: 'Inserts between GRIP (01) and PURGE (02)',
-  //   smallImage: 'placeholder:x-dirty',
-  //   largeImage: 'placeholder:x-dirty',
-  // },
+  {
+    id: 'x-dirty',
+    name: 'X-DIRTY DETAILS',
+    tagline: 'Heavy Soil Pre-Treatment',
+    sku: 'RG-INT-XDIRTY',
+    description: 'Aggressive decontamination for heavily soiled vehicles',
+    whatItIs: 'An industrial-strength pre-treatment for vehicles with extreme contamination levels.',
+    capabilities: 'Breaks down heavy mud, construction debris, and industrial fallout.',
+    strategicIntent: 'Prepare extremely contaminated vehicles for standard wash protocol.',
+    deploymentProtocol: 'Apply to worst areas first. Allow extended dwell time. Pressure rinse before wash.',
+    waypoint: 'grip-purge',
+    waypointDescription: 'Inserts between GRIP (01) and PURGE (02)',
+    smallImage: 'placeholder:x-dirty',
+    largeImage: 'placeholder:x-dirty',
+  },
   {
     id: 'x-extraction',
     name: 'X-EXTRACTION',
